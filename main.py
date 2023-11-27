@@ -2,6 +2,8 @@ from tkinter import *
 from tkinter import ttk
 import webbrowser
 import numpy as np
+import matplotlib
+matplotlib.use('TkAgg')
 import matplotlib.pyplot as plt
 
 root = Tk()
