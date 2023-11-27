@@ -8,7 +8,7 @@ Projeto para calcular um sistema trifásico de Ligação Estrela-Estrela com a c
 
 <h1 align="center">  </h1>
 <p align="center">
-<img width="300", title="RECORD AND DETECT", img src="https://github.com/edworId/Sistemas-El-tricos/blob/main/est_est.png"/>
+<img width="300", title="RECORD AND DETECT", img src="https://github.com/edworId/Sistemas-El-tricos/blob/main/gui.png"/>
 </p>
 
 <h6 align="center">This interface was built using python and the library tkinter, which works for GUI developments. </h6>
