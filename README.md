@@ -15,7 +15,7 @@ Projeto para calcular um sistema trifásico de Ligação Estrela-Estrela com a c
 
 <h1 align="center">  </h1>
 
-CLONE: git clone git@github.com:edworId/Sistemas-El-tricos.git
+CLONE: git clone git@github.com:edworId/Sistemas-Eletricos.git
 
 <h1 align="center"> Autores </h1>
 
