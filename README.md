@@ -27,7 +27,7 @@ Este projeto implementa um sistema elétrico trifásico utilizando a configuraç
 <h6 align="center">This interface was built using python and the library tkinter, which works for GUI developments. </h6>
 
 <h1 align="center">  </h1>
-
+Você pode ver os requerimentos necessários para a utilização do sistema por meio de requirements.txt
 CLONE: git clone git@github.com:edworId/Sistemas-Eletricos.git
 
 <h1 align="center"> Autores </h1>
